@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Id Scanner</string>
+    <string name="some_logo">Some Logo</string>
+    <string name="id_scanner">ID SCANNER</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="l_o_g_i_n">L O G I N</string>
+    <string name="tap">TAP</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="id_number">Id Number</string>
+    <string name="in">IN</string>
+    <string name="out">OUT</string>
+</resources>
