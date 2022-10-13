@@ -60,7 +60,6 @@ class LoginActivity : AppCompatActivity() {
       val password = binding.etPassword.text.toString().trim()
 
       // Validate username and password
-
       model.login(username, password)
     }
   }
